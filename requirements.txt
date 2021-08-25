@@ -89,7 +89,6 @@ pyrsistent==0.17.3
 python-dateutil==2.8.1
 pyttsx3==2.7
 pytz==2020.5
-pywin32==228
 pywin32-ctypes==0.2.0
 pywinpty==0.5.7
 pyzmq==19.0.2
@@ -103,7 +102,6 @@ Send2Trash==1.5.0
 six==1.15.0
 sniffio==1.1.0
 soupsieve==2.0.1
-SpeechRecognition==3.8.1
 sqlparse==0.4.1
 terminado==0.9.1
 testpath==0.4.4
@@ -118,7 +116,5 @@ webdriver-manager==3.2.1
 webencodings==0.5.1
 whitenoise==5.3.0
 widgetsnbextension==3.5.1
-wikipedia==1.4.0
-wolframalpha==4.0.0
 wrapt==1.12.1
 xmltodict==0.12.0
